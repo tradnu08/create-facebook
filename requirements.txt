@@ -1,0 +1,12 @@
+rich
+bs4
+mechanize
+requests
+futures
+pycryptodome
+pystyle
+fake_useragent
+stdiomask
+inquirer
+pyfiglet
+colorama
