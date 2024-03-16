@@ -13,7 +13,7 @@ $ git clone https://github.com/Sankprabu/komet
 ```
 ### ⇨  Menjalankan Script
 ```
-$ cd komet
+$ cd create-facebook
 $ pip3 install -r requirements.txt
 $ git pull
 $ python create.py
